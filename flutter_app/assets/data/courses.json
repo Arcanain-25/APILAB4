@@ -1,0 +1,88 @@
+[
+  {
+    "id": "react-front-to-back",
+    "title": "React: Front to Back",
+    "instructor": "Maya Chen",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 390,
+    "completedLessons": 2,
+    "totalLessons": 7,
+    "rating": 4.9,
+    "coverUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=85",
+    "description": "Build a complete understanding of React, from your first component to a polished, production-ready interface.",
+    "lessons": [
+      {"title": "Introduction to React", "duration": "04:28", "completed": true},
+      {"title": "Understanding React", "duration": "06:12", "completed": true},
+      {"title": "Create your first project", "duration": "43:58", "completed": false},
+      {"title": "Build with components", "duration": "26:18", "completed": false},
+      {"title": "State and props", "duration": "38:40", "completed": false},
+      {"title": "Working with APIs", "duration": "51:24", "completed": false},
+      {"title": "Ship your application", "duration": "19:00", "completed": false}
+    ]
+  },
+  {
+    "id": "packaging-design",
+    "title": "Packaging Design Studio",
+    "instructor": "Elena Rossi",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 520,
+    "completedLessons": 5,
+    "totalLessons": 8,
+    "rating": 4.8,
+    "coverUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=1200&q=85",
+    "description": "Explore the craft of packaging, from material choices and structure to a distinctive visual identity on the shelf.",
+    "lessons": [
+      {"title": "Designing for the shelf", "duration": "12:10", "completed": true},
+      {"title": "Materials and structure", "duration": "24:35", "completed": true},
+      {"title": "Building a visual system", "duration": "31:08", "completed": true},
+      {"title": "Prototyping by hand", "duration": "18:42", "completed": true},
+      {"title": "Typography and hierarchy", "duration": "22:16", "completed": true},
+      {"title": "Color on print", "duration": "17:54", "completed": false},
+      {"title": "Preparing production files", "duration": "28:20", "completed": false},
+      {"title": "Presenting your concept", "duration": "14:40", "completed": false}
+    ]
+  },
+  {
+    "id": "product-design",
+    "title": "Product Design Foundations",
+    "instructor": "Noah Williams",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 285,
+    "completedLessons": 1,
+    "totalLessons": 6,
+    "rating": 4.7,
+    "coverUrl": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&w=1200&q=85",
+    "description": "Learn a thoughtful, user-centered design process and turn early ideas into clear, testable product concepts.",
+    "lessons": [
+      {"title": "What product designers do", "duration": "09:32", "completed": true},
+      {"title": "Finding the real problem", "duration": "26:18", "completed": false},
+      {"title": "Sketching useful ideas", "duration": "34:04", "completed": false},
+      {"title": "Wireframes that communicate", "duration": "42:10", "completed": false},
+      {"title": "Prototyping the journey", "duration": "38:48", "completed": false},
+      {"title": "Testing and iteration", "duration": "27:00", "completed": false}
+    ]
+  },
+  {
+    "id": "spoken-english",
+    "title": "Speak English with Confidence",
+    "instructor": "Amara Okafor",
+    "category": "Languages",
+    "level": "Beginner",
+    "durationMinutes": 225,
+    "completedLessons": 0,
+    "totalLessons": 5,
+    "rating": 4.9,
+    "coverUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1200&q=85",
+    "description": "Practice everyday conversation, pronunciation, and listening with short lessons built for real life.",
+    "lessons": [
+      {"title": "Start a conversation", "duration": "16:20", "completed": false},
+      {"title": "Sound clear and natural", "duration": "21:45", "completed": false},
+      {"title": "Listen for meaning", "duration": "18:30", "completed": false},
+      {"title": "Talk about your day", "duration": "24:10", "completed": false},
+      {"title": "Keep the conversation going", "duration": "19:15", "completed": false}
+    ]
+  }
+]

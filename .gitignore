@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+/app/build
+*.apk
+.cxx
+local.properties
+
+# Flutter build and tool files
+/flutter_app/build/
+/flutter_app/.dart_tool/
+/flutter_app/android/.gradle/
+/flutter_app/android/app/build/

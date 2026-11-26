@@ -1,0 +1,26 @@
+package com.edulearn.app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val BrandBlue = Color(0xFF4169FF)
+val BrandBlueDeep = Color(0xFF3558F0)
+val Orange = Color(0xFFFF7A1A)
+val OrangeDeep = Color(0xFFFF5A00)
+val PageBg = Color(0xFFF7F8FC)
+val CardWhite = Color(0xFFFFFFFF)
+val TextPrimary = Color(0xFF1C1C28)
+val TextSecondary = Color(0xFF8B8FA8)
+val TextMuted = Color(0xFFA0A4B8)
+val LearnCardBg = Color(0xFFF3EEE4)
+val ChecklistCardBg = Color(0xFFE8F3EE)
+val MeetupBg = Color(0xFFE9D9FF)
+val MeetupTitle = Color(0xFF5B2DA8)
+val TabInactive = Color(0xFFC5C8D4)
+val StarGold = Color(0xFFFFC107)
+val ChipScrim = Color(0x66FFFFFF)
+val LockedGray = Color(0xFFD7DAE4)
+val ProgressTrack = Color(0xFFF0F1F6)
+val RingTrack = Color(0xFFE6E8F0)
+val RingBlue = Color(0xFF4169FF)
+val CoverPurple = Color(0xFF8B5CF6)
+val CoverPink = Color(0xFFC084FC)
